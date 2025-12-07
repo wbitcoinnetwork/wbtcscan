@@ -1,0 +1,5 @@
+body{background:#050714;color:#fff;margin:0;font-family:Arial}
+.top{display:flex;justify-content:space-between;padding:14px;background:#060818}
+.logo{font-size:20px;font-weight:bold}
+#search{padding:6px 10px;border-radius:6px;border:none;width:200px}
+.card{background:#0b1120;padding:16px;margin:12px;border-radius:10px}
